@@ -15,20 +15,6 @@
       "valid_to": "2020-02-01"
     },
     {
-      "id": 2,
-      "title": "Offer 2",
-      "description": "Offer 2 description",
-      "category": 2,
-      "merchants": [
-        {
-          "id": 2,
-          "name": "Offer2 Merchant1",
-          "distance": 1.3
-        }
-      ],
-      "valid_to": "2019-12-01"
-    },
-    {
       "id": 3,
       "title": "Offer 3",
       "description": "Offer 3 description",
